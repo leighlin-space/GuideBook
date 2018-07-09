@@ -5,7 +5,7 @@
 
 排版可打印版请点击此处（待更新）
 
-#Cornell Tech新生手册 2018 V1.0
+Cornell Tech新生手册 2018 V1.0
 
 1.  Travel & Stay
 Cornell Tech校区位于Roosevelt Island（罗岛）北部，位于纽约Manhattan和Queens的中间部位，Roosevelt Island占地2.5km*0.5km，较为狭长，景色优美，除了夏天偶有大风或起雾，和纽约其他地区的天气一致。生活设施有邮局，泳池，健身房和group fitneess课程。也有很多居民环岛跑步，通常在30min - 60min就可以环岛跑完。
