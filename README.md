@@ -159,6 +159,9 @@ Cornell Tech医疗资源与Cornell Ithaca共享，采用Aetna student health ins
 
 3.2 使用Aetna医保和付费
 
+保险信息卡：https://www.aetnastudenthealth.com/en/school/867890/members/get-id-card.html
+输入student ID 学号 + 生日 本地保存
+
 保险详情：https://studenthealthbenefits.cornell.edu/health-plans/shp/2018-2019
 
 注意：医保可每年有轻微变更，详情请查询Aetna保险细则；如遭遇重大医疗账单（3k以上），认为非知情情况下或无能力支付，请参照医院流程Argue，出示收入来源和财产证明，可免除或减免部分医疗账单，此种状况相当于医院支付了医疗账单（非保险公司），结果因人而异。
