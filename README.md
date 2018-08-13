@@ -116,8 +116,16 @@ https://www.tripadvisor.com/Attractions-g60763-Activities-c59-t56-New_York_City_
 1.3.1 校内住房
 Cornell的所有校友教职员工都可以选择入住The House，The House的前台有24hr工作人员，顶楼风景极佳，设施和建筑较新，外来出入Guest需要登记，费用属于标准Luxury范围。目前主要潜在问题是用水和空调系统，第一年入住有部分住户不稳定的现象，电费收费系统有一些问题，注册和缴费均可网上操作。二楼有免费健身房，设施较少场地较小。带洗衣房，Bike room和快递/邮件收取提醒，总体来说设施完善。
 
+Move -in date: 8.1
+
 官方网站
 https://thehouseatcornelltech.com
+具体价格根据自己房型和楼层参见
+https://thehouseatcornelltech.com/residences/
+
+注意：
+$800 deposit直接credit to第一个月的房租， 收租周期为一个学期（6个月），security deposit 需cashier check/money order或fax信用卡信息，请联系办公室预约check-in，赴美后再缴付。
+
 
 1.3.2 校外住房
 岛上可选的公寓除了The House还有一些公寓“罗岛比较受中国学生欢迎的公寓有: Manhattan Park (4栋), The Octagon, Riverwalk，Eastwood (6栋). 价格由低到高为: Eastwood, Manhattan Park, The Octagon, Riverwalk.”，出了岛，校外有选择New Port，LIC和Queens居住的同学，也是一些比较受欢迎的选择。
@@ -130,6 +138,8 @@ http://www.cssanyu.org
 1.3.3  搬家
 搬运个人物品回国、外州和较远地区推荐使用FedEx，UPS和USPS上门取货服务，提前购买纸箱和胶带打包，可以网上或打电话预约取包裹时间，网上预约可以提前打印Lable。
 如搬运家具家电等大件物品，Uhaul和Budget均可网上预约，拿好驾照和ID即可到指定地点取车，自行搬运。跨州搬运家具价格高昂，常见的出售家具方式有let go和一些二手交易App，facebook群和微信群，问询进行线下交易。
+
+
 
 1.3.5 家人来访
 家人朋友来访，不外宿可选择购买充气床/ folding bed（如果房东允许）。
@@ -215,6 +225,17 @@ Vikram, Rafael Pass, Nathan Kallus, Serge Belongie 都是公认比较优秀的pr
 Studio属于综合课程，课程内容有待改善，更多的思维扩展，较少传统落地教学和作；注重Technology + Busienss Model 的创新和主动创造力。尤其是start up studio, 这部分课程的grading具有主观性，和传统technical class grading policy出入大，希望同学有这个心理准备，好好准备presentation，加强沟通；同时也不要由于主观主导的评分标准尽力而为却唏嘘，这样的经历rationalize于现实生活中没有拿到funding的创业经历，提高自己的综合实力；等同于得不到Angle的青睐，然而现实中每一个创业人都要平均失败10次，现实中拿不到钱在这里拿不到A，是一样的合理存在。
 
 4.1.3 Studio
+
+4.1.4 学费缴付
+CASHNet (https://www.dfa.cornell.edu/bursar/students-parents/paying-your-bill/cashnet)
+截止日期：8月7日
+
+缴费方式：
+1. Flywire 可以直接wire transfer电汇人民币可argue汇率，或者支付30刀手续费电汇美金
+2. 有美国账户的可以直接wire transfer到美国账户，然后用echeck支付给学校
+注意：Cornell不接受来自海外电汇
+3. 信用卡
+注意：信用卡消费收取2.4%手续费
 
 5. Alumni
 
@@ -363,6 +384,45 @@ A： 创业是不是一条极其艰苦的路因人而异，不要一上来就怕
 
 “至于创业这段人生旅途嘛，不论结果如何，只要能搭上几个对的伙伴，那一定会很精彩！”
 
+b)Kiyan Rajabi HT 2018
+
+Q：Did you came to Cornell Tech because of the start up classes?
+A: Yes, because Cornell Tech is a newer university, it has a lot potentials and entrepreneur initiative.
+
+Q: How much funding did you receive for opening up your company?
+A: Right after start-up studio winners being announced, we received 40000, if the team is doing well we receive 40000 after another 6 month, and the evaluation is based on a meeting, we need to prepare for that meeting. You must be working full time on it after the graduation, 100% commitment.
+
+Q: Have you tried to reach out to fundings outside?
+Yes, I am working on business development, including reach out to investors, and external outreach too. 
+
+Q: Where does your idea come from? How about your product?
+A: It comes from my team, also personal experience, when I am thinking about building a company, I think of the challenge from day to day. Think yourself as a customer and build product for solving a problem in your life. My user story is about a  challenge my mom faced. Think about your life, friends and loved ones, identifying loved ones experience will help you build your product. 
+
+Q: How did you match with your team member?
+A: I find people who shares the same vision, rather than complementary skills. I also find people that are passionate about doing our start-up, someone who work on it every weekend, commitment is important. 
+
+Q: How much time do you spend on average every week?
+A: I spent about 20 hours or more during school taking the class, our product changes every week and update constantly.
+
+Q: What are the biggest challenges?
+A：Building quickly, timing the product to a right market immediately at the right time.  I ask people in the industry get feedback, I also take advantage of talking to professors, following google trends and read TechCrunch 
+
+Q: What are some spin-out resources that’s offered by Spin-Out?
+A: Peer communication and affiliation with the university. But we are working pretty independently, the biggest resource is our team. Regards to the common start-up financial or legal issues, we are expected to face legal and business independently on our own.
+
+Q: How do you value this experience? 
+A: I want to do Revecare but nothing else, it is a at 10 years commitment. I did not go to spring recruitment and I am certain about the start-up.
+
+Q: Is there any product management skills you have learned ?
+A: The best thing I learned is to take risk to talk to other people, be fearless.
+
+Q: How do you see your start up at this moment? 
+A: New York is great for the tech, my valuable working experience has been making our company and product building very rewarding. And my background was a Pre-med in undergrad, I have previously worked with startup accelerators, then consultancy in health care, then my last 2 years was in school.
+
+Q: One last thing: your suggestions to incoming or current students?
+A: First, be curious and ask different people, strength and weakness, take advantage of resources, fellow students and professors. Second, start early as much as possible, I started September recruiting my team and building my product in October.
+
+
 希望这篇采访能给你提供一个接地气的美国创业经历分享，还有美国和国内的创业环境对比，祝你在studio课程中学有所成，挑战自我！
 
 
@@ -393,7 +453,10 @@ Cornell CSSA 《新生手册》https://docs.wixstatic.com/ugd/23ba14_f068578fde4
 10. 后记：
 感谢此次初版新生手册参与提供信息的Cornell Tech University以及Cornell University校友
 
-主编:  Lisa Li ECE 18			 git / wechat ro5aline
-参与编辑: Zhan Zhang ECE 18	 git:Ricardo-Zhang
+主编    
+Lisa Li      ECE 18			git/wechat ro5aline
+参与修正 
+Zhan Zhang   ECE 18	    git:Ricardo-Zhang
+Yuan Xuan    CM 19      git: Yuan-T-Xuan        LinkedIn: yuan-xuan-397a38113
 
-Last Edited: 2018/07/08 
+Last Edited: 2018/08/13
