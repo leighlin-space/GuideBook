@@ -454,7 +454,7 @@ Cornell CSSA 《新生手册》https://docs.wixstatic.com/ugd/23ba14_f068578fde4
 感谢此次初版新生手册参与提供信息的Cornell Tech University以及Cornell University校友
 
 主编    
-Lisa Li      ECE 18			git/wechat ro5aline
+Lisa Li      ECE 18			git
 参与修正 
 Zhan Zhang   ECE 18	    git:Ricardo-Zhang
 Yuan Xuan    CM 19      git: Yuan-T-Xuan        LinkedIn: yuan-xuan-397a38113
