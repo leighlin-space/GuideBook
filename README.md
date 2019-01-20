@@ -1,24 +1,22 @@
-扉页赠言：
 编辑此手册以纪念大学挚友Xichen Tian和鼓励我出国求学的大舅
 希望本手册能帮助你解决一些生活中的烦恼，也希望你能在海外方便你的生活。
 也祝福Cornell Tech各位新生获得理想的人生!
 
-排版可打印版请点击此处（待更新）
 
-Cornell Tech新生手册 2018 V1.0
+# Cornell Tech新生手册 2018 V1.0
 
-1.  Travel & Stay
+## 1.  Travel & Stay
 Cornell Tech校区位于Roosevelt Island（罗岛）北部，位于纽约Manhattan和Queens的中间部位，Roosevelt Island占地2.5km*0.5km，较为狭长，景色优美，除了夏天偶有大风或起雾，和纽约其他地区的天气一致。生活设施有邮局，泳池，健身房和group fitneess课程。也有很多居民环岛跑步，通常在30min - 60min就可以环岛跑完。
 
 交通方式繁多，从学校出发“进城”（Queens或Manattan）平均最快需要15分钟及以上，根据目的地不同有所区别。较为代表性的地点：一般从罗岛去midtown全程在20min - 30min左右，到china town 在40min左右，到美食圣地flushing 45min左右，打车和地铁的所消耗时间区别不明显，最大差距在10分钟内。
 
 居住在纽约和电影里的刀光剑影还是不一样的，虽然经常听到警笛和救护车的声音，纽约的安全在全北美162个城市中排名69，在大型城市属于较为安全的城市。罗岛在228个NYC社区排名28，数据来自Niche和SafeAround）除了偶尔有游客聚集，往往十分安静，整体环境整洁卫生，在纽约室内可以称得上是“世外桃源”（4月的樱花节时期，罗岛非常漂亮，整个岛上鲜花盛开，红粉缤纷）。总体来说，罗岛在NYC属于住宿出行，相当安全的区域。生活方面有两个小超市(可购买酒精饮料，21岁以上)，少量餐馆，一个Urgent Care还一个Drug Store.
 
-1.1 市内交通
+##### 1.1 市内交通
 
-1.1.1 public transportation 
+###### 1.1.1 public transportation 
 在室内出行交通方式有地铁，邮轮和缆车，具体的各个选择有如下：
-a. MTA F line
+* a. MTA F line
 Metro Card 地铁卡可在大多数地铁站用信用卡/借记卡/现金购得，行前有App可下载地图，出行时间Google Maps一般准确，极少有突发事件影响出行；IOS 用户也可以使用Apple Map, 在 nyc 用户体验更好。
 
 Address: New York, NY 10044
@@ -29,22 +27,22 @@ F线地铁出入岛上最优方式，可直达Queens和Manhattan
 MTA Schedules
 http://www.mta.info/schedules
 
-b. NYC Ferry 
+* b. NYC Ferry 
 Astoria - Wall Street 
 Address: E Main St, New York, NY 10044
 https://www.ferry.nyc/routes-and-schedules/route/astoria/
 注意：台风期间运营时间时有变更，行前请查明；有App可下载
 
-c. Tram
+* c. Tram
 Address: E 59th St & 2nd Avenue, New York, NY 10022
 https://rioc.ny.gov/302/Tram
 注意：周末节假日运营时间时有变更，行前请查明；
 
-d. Car 2 Go 
+* d. Car 2 Go 
 偶尔需要开车可选择公共租车Car2Go，用户较少，收费和详情可参阅NYC Car2Go
 https://www.car2go.com/US/en/new-york-city/
 
-e. Bike
+* e. Bike
 NYC的自行车出行一般默认在市内公路和机动车同等待遇（非高速），专属的bike lane较少，The House和一些的building提供存放自行车的Bike room。
 注意：出行请带依法戴好头盔，非机动车道有限，夜间出行请带尾灯，且相对机动车较危险，行前用google map查明自行车路线，熟悉交通规则，学习美国自行车标准转向手势。
 
@@ -439,7 +437,7 @@ A: First, be curious and ask different people, strength and weakness, take advan
 
 8.1 声明：
 
-此手册仅作新生入学信息参考，如有冲突，错误和不准确之处，一切信息请以Cornell Tech官方信息为准；涉及的NYC，纽约州官方规定和其他机构请以当地法律法规为准则，撰文作者非直接利益相关，不承担任何法律后果；作者Lisa Li个人版权所有，请勿用作商业活动和盈利行为，望中介机构和留学平台征求作者同意后使用，涉及校友个人信息内容请勿外传及用作商业用途，违法必究。
+此手册仅作新生入学信息参考，如有冲突，错误和不准确之处，一切信息请以Cornell Tech官方信息为准；涉及的NYC，纽约州官方规定和其他机构请以当地法律法规为准。撰文作者非直接利益相关，不承担任何法律后果；作者Lisa Li个人版权所有，请勿用作商业活动，望中介机构和留学平台征求作者同意后使用，涉及校友个人信息内容请勿外传及用作商业用途，违法必究。
 
 欢迎校友参与建设，Github请点击Pull Request提交编辑建议，欢迎更新和修正。
 
@@ -448,15 +446,14 @@ A: First, be curious and ask different people, strength and weakness, take advan
 e乡e家 罗岛租房全攻略 https://zhuanlan.zhihu.com/p/20954845
 留學康乃爾的懶人包 康乃爾大學臺灣同學會 http://cornelltsa.org/files/2016startup.pdf
 Cornell CSSA 《新生手册》https://docs.wixstatic.com/ugd/23ba14_f068578fde4e451fb2eaa0b4c72afae6.pdf
-浪潮之巅 吴军http://liantze.penguinattack.org/docs/WaveCrest.pdf
 
 10. 后记：
-感谢此次初版新生手册参与提供信息的Cornell Tech University以及Cornell University校友
+感谢在初版新生手册采访和更新过程中，参与提供信息的Cornell Tech和 Cornell University校友
 
 主编    
-Lisa Li      ECE 18			git
+Lisa Li      ECE 18		
 参与修正 
-Zhan Zhang   ECE 18	    git:Ricardo-Zhang
-Yuan Xuan    CM 19      git: Yuan-T-Xuan        LinkedIn: yuan-xuan-397a38113
+Zhan Zhang   ECE 18	    
+Yuan Xuan    CM 19      
 
 Last Edited: 2018/08/13
