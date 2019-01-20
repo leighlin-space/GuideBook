@@ -424,23 +424,23 @@ A: First, be curious and ask different people, strength and weakness, take advan
 答疑区主要包含大家各种细节的问题，如果有常见问题，Github请点击Pull Request提交编辑建议，欢迎更新和修正。
 
 
-## 8.后记和补充：
+## 8.后记和补充
 关于信用卡，SSN，OPT和CPT，驾照，信用卡，手机通信等内容（待更新）
 如有需求请参考延伸阅读
 
-###### 8.1 声明：
+###### 8.1 声明
 
 此手册仅作新生入学信息参考，如有冲突，错误和不准确之处，一切信息请以Cornell Tech官方信息为准；涉及的NYC，纽约州官方规定和其他机构请以当地法律法规为准。撰文作者非直接利益相关，不承担任何法律后果；作者Lisa Li个人版权所有，请勿用作商业活动，望中介机构和留学平台征求作者同意后使用，涉及校友个人信息内容请勿外传及用作商业用途，违法必究。
 
 欢迎校友参与建设，Github请点击Pull Request提交编辑建议，欢迎更新和修正。
 
-## 9. 延伸阅读：
+## 9. 延伸阅读
 
 e乡e家 罗岛租房全攻略 https://zhuanlan.zhihu.com/p/20954845
 留學康乃爾的懶人包 康乃爾大學臺灣同學會 http://cornelltsa.org/files/2016startup.pdf
 Cornell CSSA 《新生手册》https://docs.wixstatic.com/ugd/23ba14_f068578fde4e451fb2eaa0b4c72afae6.pdf
 
-## 10. 后记：
+## 10. 后记
 感谢在初版新生手册采访和更新过程中，参与提供信息的Cornell Tech和 Cornell University校友
 
 主编    
