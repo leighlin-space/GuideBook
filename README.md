@@ -147,7 +147,7 @@ http://www.cssanyu.org
 Cornell Club
 https://www.cornellclubnyc.com/club/scripts/section/section.asp?NS=HP
 
-2. Food
+## 2. Food
 岛上餐饮集中于地铁附近几家餐厅和超市附近，各商家均提供送餐服务，Cornell Cafe提供的食物口味不稳定，岛上的餐饮质量一般，可以满足基本需求，这里纽约繁多的美食就不做详细介绍了（待更新）。
 
 主要外卖订餐平台：
@@ -155,7 +155,7 @@ Grubhub和其他订餐APP
 nystudentfood.com 输入zip code：10044即可（学校可选空白）
 公众号：桂林山水
 
-3. Medical 
+## 3. Medical 
 Cornell Tech医疗资源与Cornell Ithaca共享，采用Aetna student health insurance policy，由于我校区各方限制，无校医诊所。如果同学有生理或心理上的不适应，头疼脑热到焦虑抑郁，都应该及时就医问询，美国的医疗系统发达完善，服务甚至延伸到配眼镜，针灸治疗，Physical Therapy等等，不少同学也会注射HPV疫苗，营养咨询，Counselling心理疏导等等。当然，美国的医疗收费系统市场为人诟病，收费高昂，急诊效率低下，近两年有所改善，然而普通医疗账单未经医保报销最低也可高达3k。
 
 3.1 就医流程，预约
@@ -190,19 +190,12 @@ https://studenthealthbenefits.cornell.edu/sites/studenthealthbenefits/files/pdfs
 18-19年详细的dental vision benefits请参考
 https://studenthealthbenefits.cornell.edu/dental-vision-plans/vision
 
-4. College Resources
+## 4. College Resources
 
 由于Cornell Tech目前的侧重是Enterpreneship, 而众所周知现在相关开展类似项目的教学都极其有限，为了更好适应校园生活，推荐同学提前学习full stack development，至少了解一种框架的完整开发流程。实习和创业背景有限的应届生和职业转型同学，推荐看几本关于产品设计和开发的阅读教材，以及IT行业介绍的书籍，我个人补充了一些非常有助于帮助思维和综合能力延伸的书籍，属于比较经典通俗和入门易懂的内容。
 
 Cornlle Tech 官网课程推荐：
 《课程教科书》《Sprint》《The design of Everything》《The tipping point 》
-
-个人推荐：
-《金融：白话金融投资》《统计学习方法》吴军博士的书：《浪潮之巅》《数学之美》
-
-创业参考网站：
-Product Hunt 	https://www.producthunt.com
-AngelList	https://angel.co
 
 
 4.1 Academia
@@ -235,7 +228,7 @@ CASHNet (https://www.dfa.cornell.edu/bursar/students-parents/paying-your-bill/ca
 3. 信用卡
 注意：信用卡消费收取2.4%手续费
 
-5. Alumni
+## 5. Alumni
 
 Cornell有丰富的校友系统，有Cornell Tech Alumni, NYC Cornell Club, LinkedIn有 Cornell Alumni, Ivy, 中国留学生组织和各地校友群, Cornell Tech教学的一大侧重在于social，基本上每两周都有校友on campus social，在studio课程中也多有校友参与，培养networking可以帮你了解行业信息、业内动向以及target company等等有效求职创业信息。在Cornell Tech官网可阅读校友创业经历和创业动向：
 
@@ -252,7 +245,7 @@ Cornell University restricted access required for some of the sections, due to t
 （待更新）
 
 
-6. 就业实习指南
+## 6. 就业实习指南
 
 LinkedIn, Glassdoor, Indeed和校友内推作为job research tool都很好，网上相关的介绍也很多，但其真正的有效性因人而异；在这里我希望一方面就对外而言，分析就业市场，需求和被看重的技能，修改自己的简历，强化自己的背景；另一方面，我希望大家也能找到自己喜欢的工作，真正passionate about what you do，职业有很多种，想进入IT行业，可以做数据分析数据科学DS，软件工程师SDE，项目管理PM，甚至是创投VC/quant，自己创建公司做CEO，读博士，还有香港的同学开玩笑说“大不了回去卖保险”，其实未尝不是一条出路；不进入IT行业，也可以选择银行，传统制造，快消，金融和咨询行业，希望大家能多去了解行业特点和岗位特点，也多去接触有相关背景的校友。如果你对自己的职业选择很迷茫，可以利用社会科学的成果，去做一些职业测试了解自己，从成就动机，职业兴趣，工作方式和特长入手，给自己定位。
 
@@ -427,11 +420,11 @@ A: First, be curious and ask different people, strength and weakness, take advan
 6.3 公司推荐
 (待更新)
 
-7. Q&A
+## 7. Q&A
 答疑区主要包含大家各种细节的问题，如果有常见问题，Github请点击Pull Request提交编辑建议，欢迎更新和修正。
 
 
-8.后记和补充：
+## 8.后记和补充：
 关于信用卡，SSN，OPT和CPT，驾照，信用卡，手机通信等内容（待更新）
 如有需求请参考延伸阅读
 
@@ -441,18 +434,18 @@ A: First, be curious and ask different people, strength and weakness, take advan
 
 欢迎校友参与建设，Github请点击Pull Request提交编辑建议，欢迎更新和修正。
 
-9. 延伸阅读：
+## 9. 延伸阅读：
 
 e乡e家 罗岛租房全攻略 https://zhuanlan.zhihu.com/p/20954845
 留學康乃爾的懶人包 康乃爾大學臺灣同學會 http://cornelltsa.org/files/2016startup.pdf
 Cornell CSSA 《新生手册》https://docs.wixstatic.com/ugd/23ba14_f068578fde4e451fb2eaa0b4c72afae6.pdf
 
-10. 后记：
+## 10. 后记：
 感谢在初版新生手册采访和更新过程中，参与提供信息的Cornell Tech和 Cornell University校友
 
 主编    
 Lisa Li      ECE 18		
-参与修正 
+参与建议 
 Zhan Zhang   ECE 18	    
 Yuan Xuan    CM 19      
 
