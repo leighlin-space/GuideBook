@@ -276,15 +276,9 @@ https://www.railstutorial.org/book
 
 a)陈新茜 - Uber - Cornell Tech 2016 CS
 
-Uber Rockstar 工程师的职场晋升之路，20个月从 Junior 到 Senior
-对于新茜来说，本科的时候她兼顾商业和技术，有专注于技术的research，也有注重商业的实习以及投入两者兼顾的项目。“你可以把自己当做一个创业公司，你要知道自己有什么技能（Assets），市场需要什么样的人才（Market Realities），你到底对什么样的东西有热情（Aspirations）”。
-
-以新茜自己为例子，当时的Market Realities就是香港的背景：金融业发达,科技业萎靡。她拿到投行的实习offer,但是没有找科技业实习的渠道。而她的Assets就是有很好的学历背景，Aspirations就是她对科技业浓厚的兴趣。于是她决定发Cold Email找实习，可以接受没有薪水，后来她便到了IDG实习。
+Uber工程师，本科的时候她兼顾商业和技术，有专注于技术的research，也有注重商业的实习以及投入两者兼顾的项目。“你可以把自己当做一个创业公司，你要知道自己有什么技能（Assets），市场需要什么样的人才（Market Realities），你到底对什么样的东西有热情（Aspirations）”。
 
 在入职前，一定要做好准备，了解公司的背景知识。新茜在Cornell时自主选择的project都是围绕着Uber相关的，比如选择Security课:如何防止拼车时隐私泄露；Innovation课:Uber的颠覆式创新；Company project课:如何提高Uber接人时的准确度。另外，由于好奇心，她也接触了很多拼车业务相关的知识。比如上经济学课时讲到的机会成本概念，以及计算机课Final Year Project，她和CMU毕业的导师做了匹配算法(secretary problem)相关的研究。她还上过很多高级算法课，对于图Graph相关的算法和Simulated Annealing等AI算法比较熟练，在工作中上手很快。
-
-原贴转载于知乎，完整内容地址如下：
-https://zhuanlan.zhihu.com/p/38884879?utm_medium=social&utm_source=wechat_session&from=timeline&isappinstalled=0
 
 b)Alan 吴成思 - Facebook Cornell Tech 2018CS
 
